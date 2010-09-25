@@ -1,6 +1,6 @@
 { "name" : "json"
 , "description" : "JSON parsing and stringification (via http://json.org)"
-, "version" : "2.0.0"
+, "version" : "2.0.1"
 , "keywords" : ["json","parse"]
 , "maintainers":[ {
    "name": "Skylar Woodward",
@@ -8,6 +8,10 @@
 	}]
 , "contributors":[ {
    "name": "Douglas Crockford"
+	}]
+, "repositories" : [{
+	"type":"git",
+	"url":"http://github.com/skylar/json-parse"
 	}]
 , "licenses" : [{
 	"type":"Public Domain",
